@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE            COMMAND           CREATED         STATUS                     PORTS     NAMES
+fe5e6114346a   app-mindicador   "python app.py"   3 minutes ago   Exited (0) 3 minutes ago             samplerunning
+
+=== LOGS DE LA APLICACIÓN ===
